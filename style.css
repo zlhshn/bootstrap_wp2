@@ -29,3 +29,16 @@
     color: white;
   
 }
+
+.teams-icon{
+
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+    margin: auto;
+    border: .7rem solid rgb(180, 180, 180);
+}
+
+#contact{
+    background-image: url(./img/map.jpeg);
+}
